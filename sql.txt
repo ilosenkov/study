@@ -1,3 +1,4 @@
 https://letsdocode.ru/sql-main/info
 https://github.com/dbeaver/dbeaver/wiki
 1
+2
